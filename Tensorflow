@@ -1,0 +1,41 @@
+TensorFlow is an open-source software library for dataflow programming across a range of tasks. It is a symbolic math library, and 
+also used for machine learning applications such as neural networks. It is used for both research and production at Google, often 
+replacing its closed-source predecessor, DistBelief.
+
+TensorFlow was developed by the Google Brain team for internal Google use. It was released under the Apache 2.0 open source license 
+on November 9, 2015.
+
+To install Tensorflow on ubuntu, we do some steps:
+Step 1: Dowload and install anaconda
+Dowload: https://www.anaconda.com/download/#linux
+Install:
+$ bash Anaconda3-5.0.1-Linux-x86_64.sh
+$ conda create -n tensorflow python=3.6
+
+Step 2: Use tensorflow
+acer@aspire:~$ source activate tensorflow
+(tensorflow) acer@aspire:~$ spyder
+
+Step 3: Enjoy
+
+
+Windows:
+1) Cài đặt Anaconda
+Link: https://www.anaconda.com/download/
+2) Cài đặt tensorflow
+Click phải Anaconda Prompt chọn Run Administrator
+(base) C:\WINDOWS\system32>conda create -n tensorflow python=3.6
+(base) C:\WINDOWS\system32>activate tensorflow
+(tensorflow) C:\WINDOWS\system32>spyder
+3) Update IDE và thu viện
+(base) C:\WINDOWS\system32>conda update conda
+(base) C:\WINDOWS\system32>conda update anaconda
+(base) C:\WINDOWS\system32>conda update spyder
+(base) C:\WINDOWS\system32>conda update --all
+(base) C:\WINDOWS\system32>conda update -n base conda
+4) Install keras
+(tensorflow) C:\WINDOWS\system32>conda install -c conda-forge keras 
+5) Install statsmodels
+(tensorflow) C:\WINDOWS\system32>conda install -c conda-forge statsmodels
+6) Install deap (thư viện genetic algorithms)
+(tensorflow) C:\WINDOWS\system32>conda install -c conda-forge deap 

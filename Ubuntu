@@ -1,0 +1,15 @@
+Ubuntu is an open source operating system for computers. It is a Linux distribution based on the Debian architecture. It is usually run on personal computers, and is also popular on network servers, usually running the Ubuntu Server variant, with enterprise-class features. Ubuntu runs on the most popular architectures, including Intel, AMD, and ARM-based machines. Ubuntu is also available for tablets and smartphones, with the Ubuntu Touch edition.
+
+Some basic ubuntu commands that you should remember:
+1) sudo poweroff
+2) sudo reboot
+3) sudo apt-get install playonlinux winbind -y
+4) You can fix it by turning off bluetooth and wireless coexistence.
+
+Run in terminal
+
+sudo tee /etc/modprobe.d/iwlwifi-opt.conf <<< "options iwlwifi bt_coex_active=N"
+
+and reboot.
+
+or echo "options iwlwifi 11n_disable=1 bt_coex_active=0 power_save=0 auto_agg=0 swcrypto=1" | sudo tee /etc/modprobe.d/iwlwifi.conf > /dev/null
