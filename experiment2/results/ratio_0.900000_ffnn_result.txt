@@ -1,0 +1,67 @@
+n_lags:1, hidden_nodes:1, epochs:100
+RMSE: 771.411902, MAPE: 13.988328%
+n_lags:1, hidden_nodes:1, epochs:200
+RMSE: 2764.977723, MAPE: 44.521763%
+n_lags:1, hidden_nodes:2, epochs:100
+RMSE: 2952.368299, MAPE: 49.603261%
+n_lags:1, hidden_nodes:2, epochs:200
+RMSE: 987.768431, MAPE: 18.849889%
+n_lags:2, hidden_nodes:2, epochs:100
+RMSE: 2805.888057, MAPE: 45.642830%
+n_lags:2, hidden_nodes:2, epochs:200
+RMSE: 2767.410483, MAPE: 44.588628%
+n_lags:2, hidden_nodes:4, epochs:100
+RMSE: 906.168888, MAPE: 16.574259%
+n_lags:2, hidden_nodes:4, epochs:200
+RMSE: 361.193437, MAPE: 4.936312%
+n_lags:3, hidden_nodes:3, epochs:100
+RMSE: 850.384264, MAPE: 16.120947%
+n_lags:3, hidden_nodes:3, epochs:200
+RMSE: 1098.132952, MAPE: 13.049989%
+n_lags:3, hidden_nodes:6, epochs:100
+RMSE: 461.845423, MAPE: 5.885862%
+n_lags:3, hidden_nodes:6, epochs:200
+RMSE: 495.595943, MAPE: 7.789060%
+n_lags:4, hidden_nodes:4, epochs:100
+RMSE: 502.131740, MAPE: 6.001804%
+n_lags:4, hidden_nodes:4, epochs:200
+RMSE: 666.772676, MAPE: 11.931267%
+n_lags:4, hidden_nodes:8, epochs:100
+RMSE: 437.072292, MAPE: 6.500158%
+n_lags:4, hidden_nodes:8, epochs:200
+RMSE: 685.963103, MAPE: 13.182021%
+n_lags:5, hidden_nodes:5, epochs:100
+RMSE: 876.551532, MAPE: 16.055651%
+n_lags:5, hidden_nodes:5, epochs:200
+RMSE: 623.856820, MAPE: 11.539279%
+n_lags:5, hidden_nodes:10, epochs:100
+RMSE: 297.866800, MAPE: 3.785935%
+n_lags:5, hidden_nodes:10, epochs:200
+RMSE: 241.077378, MAPE: 2.917071%
+n_lags:6, hidden_nodes:6, epochs:100
+RMSE: 263.624792, MAPE: 3.951934%
+n_lags:6, hidden_nodes:6, epochs:200
+RMSE: 580.792418, MAPE: 7.119059%
+n_lags:6, hidden_nodes:12, epochs:100
+RMSE: 251.042419, MAPE: 3.091971%
+n_lags:6, hidden_nodes:12, epochs:200
+RMSE: 260.587737, MAPE: 3.738203%
+n_lags:7, hidden_nodes:7, epochs:100
+RMSE: 284.721064, MAPE: 4.949508%
+n_lags:7, hidden_nodes:7, epochs:200
+RMSE: 240.384255, MAPE: 3.381880%
+n_lags:7, hidden_nodes:14, epochs:100
+RMSE: 248.788474, MAPE: 3.263046%
+n_lags:7, hidden_nodes:14, epochs:200
+RMSE: 512.862682, MAPE: 8.229675%
+n_lags:1, hidden_nodes:1, epochs:100
+n_lags:1, hidden_nodes:1, epochs:100
+RMSE: 733.484611, MAPE: 12.794902%
+n_lags:1, hidden_nodes:1, epochs:200
+n_lags:2, hidden_nodes:4, epochs:100
+RMSE: 718.133115, MAPE: 11.647291%
+n_lags:2, hidden_nodes:4, epochs:10
+RMSE: 1066.044062, MAPE: 20.738535%
+n_lags:2, hidden_nodes:4, epochs:21
+n_lags:2, hidden_nodes:4, epochs:10
+RMSE: 539.958658, MAPE: 9.259628%

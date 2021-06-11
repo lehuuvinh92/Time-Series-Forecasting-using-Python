@@ -1,0 +1,20 @@
+n_lags:5, hidden_nodes:10, epochs:100
+RMSE: 283.490793, MAPE: 4.534131%
+n_lags:5, hidden_nodes:10, epochs:200
+RMSE: 296.904339, MAPE: 5.215551%
+n_lags:5, hidden_nodes:30, epochs:100
+RMSE: 225.188351, MAPE: 2.839205%
+n_lags:5, hidden_nodes:30, epochs:200
+RMSE: 307.518807, MAPE: 5.596316%
+n_lags:5, hidden_nodes:50, epochs:100
+RMSE: 230.191442, MAPE: 3.155846%
+n_lags:5, hidden_nodes:50, epochs:200
+RMSE: 277.500076, MAPE: 4.886761%
+n_lags:5, hidden_nodes:70, epochs:100
+RMSE: 222.791344, MAPE: 2.868014%
+n_lags:5, hidden_nodes:70, epochs:200
+RMSE: 332.498793, MAPE: 5.146683%
+n_lags:5, hidden_nodes:90, epochs:100
+RMSE: 294.416266, MAPE: 4.845076%
+n_lags:5, hidden_nodes:90, epochs:200
+RMSE: 225.989168, MAPE: 2.627488%

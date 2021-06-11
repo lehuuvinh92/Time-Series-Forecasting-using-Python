@@ -1,0 +1,42 @@
+n_lags:1, kernel:rbf
+RMSE: 396.755742, MAPE: 7.017271%
+n_lags:1, kernel:linear
+RMSE: 312.275943, MAPE: 5.147694%
+n_lags:1, kernel:poly
+RMSE: 4148.097783, MAPE: 59.867373%
+n_lags:2, kernel:rbf
+RMSE: 228.507462, MAPE: 2.694681%
+n_lags:2, kernel:linear
+RMSE: 797.837637, MAPE: 14.925188%
+n_lags:2, kernel:poly
+RMSE: 4146.131108, MAPE: 59.841514%
+n_lags:3, kernel:rbf
+RMSE: 272.834655, MAPE: 4.057972%
+n_lags:3, kernel:linear
+RMSE: 806.996354, MAPE: 15.105251%
+n_lags:3, kernel:poly
+RMSE: 4141.429390, MAPE: 59.783890%
+n_lags:4, kernel:rbf
+RMSE: 234.181492, MAPE: 2.616801%
+n_lags:4, kernel:linear
+RMSE: 778.022337, MAPE: 14.527855%
+n_lags:4, kernel:poly
+RMSE: 4132.655242, MAPE: 59.678586%
+n_lags:5, kernel:rbf
+RMSE: 237.465513, MAPE: 2.695808%
+n_lags:5, kernel:linear
+RMSE: 853.579734, MAPE: 16.096432%
+n_lags:5, kernel:poly
+RMSE: 4118.364274, MAPE: 59.507077%
+n_lags:6, kernel:rbf
+RMSE: 236.832042, MAPE: 2.569537%
+n_lags:6, kernel:linear
+RMSE: 668.668824, MAPE: 12.394927%
+n_lags:6, kernel:poly
+RMSE: 4097.096488, MAPE: 59.249745%
+n_lags:7, kernel:rbf
+RMSE: 722.208059, MAPE: 13.541408%
+n_lags:7, kernel:linear
+RMSE: 972.718739, MAPE: 18.410740%
+n_lags:7, kernel:poly
+RMSE: 4067.587370, MAPE: 58.890214%

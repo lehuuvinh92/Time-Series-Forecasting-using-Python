@@ -1,0 +1,56 @@
+n_lags:1, hidden_nodes:1, epochs:100
+RMSE: 1312.122086, MAPE: 21.027915%
+n_lags:1, hidden_nodes:1, epochs:200
+RMSE: 1160.785131, MAPE: 17.750994%
+n_lags:1, hidden_nodes:2, epochs:100
+RMSE: 4385.095701, MAPE: 64.698881%
+n_lags:1, hidden_nodes:2, epochs:200
+RMSE: 1086.480153, MAPE: 16.869710%
+n_lags:2, hidden_nodes:2, epochs:100
+RMSE: 4523.610200, MAPE: 67.500472%
+n_lags:2, hidden_nodes:2, epochs:200
+RMSE: 701.801667, MAPE: 10.644468%
+n_lags:2, hidden_nodes:4, epochs:100
+RMSE: 1200.458532, MAPE: 18.334027%
+n_lags:2, hidden_nodes:4, epochs:200
+RMSE: 309.133980, MAPE: 4.023617%
+n_lags:3, hidden_nodes:3, epochs:100
+RMSE: 4559.569245, MAPE: 68.225254%
+n_lags:3, hidden_nodes:3, epochs:200
+RMSE: 1007.439781, MAPE: 15.037979%
+n_lags:3, hidden_nodes:6, epochs:100
+RMSE: 339.416919, MAPE: 4.491176%
+n_lags:3, hidden_nodes:6, epochs:200
+RMSE: 1440.444366, MAPE: 13.748123%
+n_lags:4, hidden_nodes:4, epochs:100
+RMSE: 353.699453, MAPE: 5.646909%
+n_lags:4, hidden_nodes:4, epochs:200
+RMSE: 4626.810904, MAPE: 69.577938%
+n_lags:4, hidden_nodes:8, epochs:100
+RMSE: 773.918560, MAPE: 10.297517%
+n_lags:4, hidden_nodes:8, epochs:200
+RMSE: 523.149739, MAPE: 7.798532%
+n_lags:5, hidden_nodes:5, epochs:100
+RMSE: 814.837322, MAPE: 10.949251%
+n_lags:5, hidden_nodes:5, epochs:200
+RMSE: 1024.746594, MAPE: 16.165788%
+n_lags:5, hidden_nodes:10, epochs:100
+RMSE: 726.982683, MAPE: 11.182891%
+n_lags:5, hidden_nodes:10, epochs:200
+RMSE: 286.552524, MAPE: 4.304620%
+n_lags:6, hidden_nodes:6, epochs:100
+RMSE: 1154.844852, MAPE: 16.715254%
+n_lags:6, hidden_nodes:6, epochs:200
+RMSE: 495.213617, MAPE: 6.947222%
+n_lags:6, hidden_nodes:12, epochs:100
+RMSE: 246.937758, MAPE: 3.241257%
+n_lags:6, hidden_nodes:12, epochs:200
+RMSE: 305.885031, MAPE: 3.842048%
+n_lags:7, hidden_nodes:7, epochs:100
+RMSE: 4561.198913, MAPE: 68.258077%
+n_lags:7, hidden_nodes:7, epochs:200
+RMSE: 784.397071, MAPE: 12.021174%
+n_lags:7, hidden_nodes:14, epochs:100
+RMSE: 510.855871, MAPE: 6.888796%
+n_lags:7, hidden_nodes:14, epochs:200
+RMSE: 299.561019, MAPE: 3.489219%

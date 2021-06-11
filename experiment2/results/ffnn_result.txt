@@ -1,0 +1,48 @@
+n_lags:1, hidden_nodes:1, epochs:100
+RMSE: 706.142975, MAPE: 11.576796%
+n_lags:1, hidden_nodes:1, epochs:200
+RMSE: 2671.079693, MAPE: 41.920185%
+n_lags:2, hidden_nodes:2, epochs:100
+RMSE: 2631.105871, MAPE: 40.799420%
+n_lags:2, hidden_nodes:2, epochs:200
+RMSE: 722.664276, MAPE: 12.359624%
+n_lags:3, hidden_nodes:3, epochs:100
+RMSE: 818.343889, MAPE: 14.594806%
+n_lags:3, hidden_nodes:3, epochs:200
+RMSE: 440.986447, MAPE: 5.208999%
+n_lags:3, hidden_nodes:5, epochs:100
+RMSE: 777.184136, MAPE: 13.971526%
+n_lags:3, hidden_nodes:5, epochs:200
+RMSE: 429.773256, MAPE: 4.781049%
+n_lags:4, hidden_nodes:4, epochs:100
+RMSE: 2765.048735, MAPE: 44.523715%
+n_lags:4, hidden_nodes:4, epochs:200
+RMSE: 1275.549583, MAPE: 13.472290%
+n_lags:4, hidden_nodes:6, epochs:100
+RMSE: 2722.889139, MAPE: 43.360765%
+n_lags:4, hidden_nodes:6, epochs:200
+RMSE: 467.558561, MAPE: 8.388978%
+n_lags:5, hidden_nodes:5, epochs:100
+RMSE: 560.778653, MAPE: 10.281703%
+n_lags:5, hidden_nodes:5, epochs:200
+RMSE: 2749.599028, MAPE: 44.098473%
+n_lags:5, hidden_nodes:7, epochs:100
+RMSE: 473.101553, MAPE: 7.799938%
+n_lags:5, hidden_nodes:7, epochs:200
+RMSE: 529.944595, MAPE: 9.355673%
+n_lags:5, hidden_nodes:9, epochs:100
+RMSE: 252.101798, MAPE: 3.608711%
+n_lags:5, hidden_nodes:9, epochs:200
+RMSE: 528.910729, MAPE: 9.068473%
+n_lags:6, hidden_nodes:6, epochs:100
+RMSE: 653.981608, MAPE: 12.399967%
+n_lags:6, hidden_nodes:6, epochs:200
+RMSE: 682.462334, MAPE: 11.119926%
+n_lags:6, hidden_nodes:8, epochs:100
+RMSE: 490.244269, MAPE: 7.089333%
+n_lags:6, hidden_nodes:8, epochs:200
+RMSE: 467.866766, MAPE: 8.411872%
+n_lags:6, hidden_nodes:10, epochs:100
+RMSE: 289.159373, MAPE: 3.713404%
+n_lags:6, hidden_nodes:10, epochs:200
+RMSE: 2637.843031, MAPE: 40.988907%

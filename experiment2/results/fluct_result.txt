@@ -1,0 +1,83 @@
+ARIMA
+interval 0: RMSE: 227.250676, MAPE: 2.063926 %
+interval 1: RMSE: 220.465024, MAPE: 2.020096 %
+interval 2: RMSE: 148.900274, MAPE: 1.534652 %
+interval 3: RMSE: 165.338498, MAPE: 1.901886 %
+interval 4: RMSE: 206.281187, MAPE: 2.252124 %
+interval 5: RMSE: 411.886455, MAPE: 4.288998 %
+interval 6: RMSE: 90.651114, MAPE: 1.027276 %
+interval 7: RMSE: 176.131094, MAPE: 2.315510 %
+interval 8: RMSE: 377.556034, MAPE: 4.723407 %
+interval 9: RMSE: 138.158476, MAPE: 2.048313 %
+interval 10: RMSE: 0.000000, MAPE: 0.000000 %
+interval 11: RMSE: 90.929790, MAPE: 1.269947 %
+============================================
+FFNNN
+interval 0: RMSE: 246.540083, MAPE: 2.222983 %
+interval 1: RMSE: 231.816166, MAPE: 2.188436 %
+interval 2: RMSE: 207.442392, MAPE: 1.969079 %
+interval 3: RMSE: 166.075040, MAPE: 1.845621 %
+interval 4: RMSE: 198.224187, MAPE: 2.061779 %
+interval 5: RMSE: 404.815423, MAPE: 4.228880 %
+interval 6: RMSE: 104.594972, MAPE: 1.331093 %
+interval 7: RMSE: 197.770383, MAPE: 2.363877 %
+interval 8: RMSE: 327.633875, MAPE: 4.321261 %
+interval 9: RMSE: 189.028718, MAPE: 2.802506 %
+interval 10: RMSE: 0.000000, MAPE: 0.000000 %
+interval 11: RMSE: 216.364300, MAPE: 3.186773 %
+============================================
+CNN
+interval 0: RMSE: 259.478104, MAPE: 2.584278 %
+interval 1: RMSE: 260.066335, MAPE: 2.614751 %
+interval 2: RMSE: 232.542123, MAPE: 2.383977 %
+interval 3: RMSE: 175.676044, MAPE: 1.920727 %
+interval 4: RMSE: 207.554674, MAPE: 2.376010 %
+interval 5: RMSE: 319.569374, MAPE: 3.517912 %
+interval 6: RMSE: 75.726682, MAPE: 1.139962 %
+interval 7: RMSE: 95.854270, MAPE: 1.234135 %
+interval 8: RMSE: 293.537353, MAPE: 3.417595 %
+interval 9: RMSE: 256.403718, MAPE: 3.801396 %
+interval 10: RMSE: 0.000000, MAPE: 0.000000 %
+interval 11: RMSE: 173.384368, MAPE: 2.551348 %
+============================================
+SVR
+interval 0: RMSE: 249.286159, MAPE: 2.246474 %
+interval 1: RMSE: 240.347728, MAPE: 2.174236 %
+interval 2: RMSE: 203.867028, MAPE: 1.881881 %
+interval 3: RMSE: 159.322460, MAPE: 1.712277 %
+interval 4: RMSE: 205.974380, MAPE: 2.126034 %
+interval 5: RMSE: 416.654693, MAPE: 4.332455 %
+interval 6: RMSE: 102.645557, MAPE: 1.299849 %
+interval 7: RMSE: 172.032644, MAPE: 2.127352 %
+interval 8: RMSE: 338.084697, MAPE: 4.426077 %
+interval 9: RMSE: 213.454938, MAPE: 3.164645 %
+interval 10: RMSE: 0.000000, MAPE: 0.000000 %
+interval 11: RMSE: 230.612905, MAPE: 3.461414 %
+============================================
+LSTM
+interval 0: RMSE: 243.984355, MAPE: 2.254246 %
+interval 1: RMSE: 250.123694, MAPE: 2.193499 %
+interval 2: RMSE: 166.705847, MAPE: 1.574666 %
+interval 3: RMSE: 160.822359, MAPE: 1.884308 %
+interval 4: RMSE: 206.155118, MAPE: 1.922228 %
+interval 5: RMSE: 458.482765, MAPE: 5.012542 %
+interval 6: RMSE: 109.407290, MAPE: 1.350630 %
+interval 7: RMSE: 171.920396, MAPE: 2.183633 %
+interval 8: RMSE: 376.535566, MAPE: 4.795619 %
+interval 9: RMSE: 149.271882, MAPE: 2.213078 %
+interval 10: RMSE: 0.000000, MAPE: 0.000000 %
+interval 11: RMSE: 221.432860, MAPE: 3.362218 %
+============================================
+fluct
+interval 0: ARIMA
+interval 1: ARIMA
+interval 2: ARIMA
+interval 3: SVR
+interval 4: LSTM
+interval 5: CNN
+interval 6: ARIMA
+interval 7: CNN
+interval 8: CNN
+interval 9: ARIMA
+interval 10: LSTM
+interval 11: ARIMA

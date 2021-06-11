@@ -1,0 +1,2 @@
+n_lags:5, hidden_nodes:5, epochs:100
+RMSE: 233.430486, MAPE: 2.513204%
